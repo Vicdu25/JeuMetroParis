@@ -252,7 +252,7 @@ function renderStartScreen() {
   document.querySelector("#app").innerHTML = `
     <main class="page">
       <section class="game-card start-card">
-        <p class="eyebrow">Metro Game</p>
+        <p class="eyebrow">Metro Game TEEEEST</p>
         <h1>5 manches pour trouver les meilleurs trajets</h1>
         <p class="start-description">
           Sélectionne les lignes à emprunter dans le bon ordre. Chaque manche est notée sur 100 points.
